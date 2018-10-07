@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 少年</title>
+    <title>Tags on 慕容劉</title>
     <link>https://shaonian666.github.io/tags/</link>
-    <description>Recent content in Tags on 少年</description>
+    <description>Recent content in Tags on 慕容劉</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Oct 2018 14:24:31 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 15:36:34 +0800</lastBuildDate>
     
 	<atom:link href="https://shaonian666.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Tag1</title>
       <link>https://shaonian666.github.io/tags/tag1/</link>
-      <pubDate>Sun, 07 Oct 2018 14:24:31 +0800</pubDate>
+      <pubDate>Sun, 07 Oct 2018 15:36:34 +0800</pubDate>
       
       <guid>https://shaonian666.github.io/tags/tag1/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Tag2</title>
       <link>https://shaonian666.github.io/tags/tag2/</link>
-      <pubDate>Sun, 07 Oct 2018 14:24:31 +0800</pubDate>
+      <pubDate>Sun, 07 Oct 2018 15:36:34 +0800</pubDate>
       
       <guid>https://shaonian666.github.io/tags/tag2/</guid>
       <description></description>
