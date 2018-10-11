@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shaonian666.github.io/2018/10/%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2018-10-11T22:12:17+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shaonian666.github.io/2018/10/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2018-10-10T21:32:08+08:00</lastmod>
   </url>
@@ -40,7 +45,7 @@
   
   <url>
     <loc>https://shaonian666.github.io/post/</loc>
-    <lastmod>2018-10-10T21:32:08+08:00</lastmod>
+    <lastmod>2018-10-11T22:12:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,7 +75,13 @@
   
   <url>
     <loc>https://shaonian666.github.io/</loc>
-    <lastmod>2018-10-10T21:32:08+08:00</lastmod>
+    <lastmod>2018-10-11T22:12:17+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shaonian666.github.io/categories/%E6%96%87%E5%AD%A6/</loc>
+    <lastmod>2018-10-11T22:12:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,7 +99,7 @@
   
   <url>
     <loc>https://shaonian666.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2018-10-10T21:32:08+08:00</lastmod>
+    <lastmod>2018-10-11T22:12:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
